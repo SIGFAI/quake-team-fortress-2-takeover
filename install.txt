@@ -1,0 +1,1 @@
+Copy the mod folder into your Quake folder next to id1 and start Quake with -game followed by the mod folder name. Type impulse 50 in the console to build a sentry gun, then fight the RED mercenaries.

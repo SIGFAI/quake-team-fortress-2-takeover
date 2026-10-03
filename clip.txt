@@ -1,0 +1,6 @@
+Moments the clip must show (ticked only when seen in the preview screenshots):
+[x] 1. At the start, RED mercenaries (Heavy with a minigun, Scout, Soldier, Pyro) on real 3D models rush the player.
+[x] 2. A Quake weapon hits a merc and the screen says CRITICAL HIT!!! with a fire burst (triple damage).
+[x] 3. A Pyro's flame jet and the player's rockets set mercs on fire (burning flames follow them).
+[x] 4. Dead mercs drop spinning top hats that the player grabs (NEW HAT!), plus sandvich health from Heavies, DOMINATION text on a kill streak.
+[ ] 5. The Engineer's sentry gun (impulse 50, built at the start) shoots mercs next to the player: weak, the first-person camera rarely shows it.
