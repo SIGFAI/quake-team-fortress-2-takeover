@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "name": "Team Fortress 2 Takeover",
   "tagline": "Bring Team Fortress 2 into the game in the most visible and funny way. The change shows in the first 30 seconds of play.",
+  "how_to_play": [
+    "Fight through Quake with TF2 perks: your hits can crit for triple damage and rockets set monsters on fire.",
+    "Rocket explosions fling you through the air, so you can rocket jump.",
+    "Open the console and type impulse 50 to have the Engineer build a sentry gun next to you.",
+    "Pick up the hats and Sandviches that killed monsters leave behind to heal.",
+    "Start a New Game from the main menu, or open the console and type: map e1m1"
+  ],
   "kind": "mashup",
   "games": [
     {
@@ -314,8 +321,5 @@
     "id": "quake",
     "status": "draft"
   },
-  "built_at": "2026-10-05T15:24:44.808Z",
-  "notes": [
-    "Copy the mod folder into your Quake folder next to id1 and start Quake with -game followed by the mod folder name. Type impulse 50 in the console to build a sentry gun, then fight the RED mercenaries."
-  ]
+  "built_at": "2026-10-05T15:24:44.808Z"
 }
